@@ -8,6 +8,7 @@
     "start": "electron .",
     "build": "tsc -p src/el-back && ng build",
     "build-prod": "tsc -p src/el-back && ng build --prod",
+    "build-and-start": "npm run build . && npm start",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
