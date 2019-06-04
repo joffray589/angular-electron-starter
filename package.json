@@ -29,7 +29,8 @@
     "font-awesome": "^4.7.0",
     "ngx-electron": "^1.0.4",
     "rxjs": "^5.5.6",
-    "zone.js": "^0.8.19"
+    "zone.js": "^0.8.19",
+    "sshpk": ">=1.13.2"
   },
   "devDependencies": {
     "@angular/cli": "1.6.5",
